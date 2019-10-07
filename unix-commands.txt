@@ -5,6 +5,12 @@ shift+i - to list the processes at the individual CPU core level
 
 shift+H - to get thread level details of the process
 
+To sort the list of processes based on various resource consumption, press SHIFT and the following keys
+‘M’ to sort by memory usage
+‘P’ to sort by CPU usage
+‘N’ to sort by process ID
+‘T’ to sort by the running time
+
 To know the number of CPU cores
 ===============================
 
