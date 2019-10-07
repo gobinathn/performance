@@ -1,8 +1,8 @@
 From the command line
 
-top - list the processes running in the system
-and then press
+top - list the processes running in the system, which will display CPU, memory consumption of individual processes. When it comes to multi core CPU it will display CPU utilization more than 100%. To get CPU utilization at each core level, press
 shift+i - to list the processes at the individual CPU core level
+
 shift+H - to get thread level details of the process
 
 To know the number of CPU cores
